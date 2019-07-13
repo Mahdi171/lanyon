@@ -2,13 +2,23 @@
 layout: post
 title: Education
 ---
+{\customcventry{Jan 2019-Present}{Visiting student of security and informatics}{Charles University in Prague}{Prague, CZ}{}{}}
 
+{\customcventry{September 2017}{Master of Secure Telecommunication and Cryptography}{Sharif University of Technology}{Tehran, Iran}{}{}}
+
+{\customcventry{June 2014}{Bachelor of Electrical Engineering- Telecommunication }{University of Birjand}{Birjand, Iran}{}{}}
 Cryptography and Network security.
+
 Cryptocurrencies and Blockchain security.
+
 Zero-Knowledge proof systems.
+
 Information theoretic security.
+
 ID-based, Attribute-based Encryption schemes.
+
 Access Policy Encryption (ACE).
+
 Smart Grid and Internet of Things (IoT) Security.
 
 ### Built on Poole
