@@ -11,7 +11,7 @@ title: Publication
 - Mahdi Sedaghat, Mohammad Hassan Ameri, Javad Mohajeri, and Mohammad Reza Aref, “An efficient and secure Data Sharing in Smart Grid: ciphertext-policy Attribute-Based Signcryption.”, accepted for 25th Iranian Conference on Electrical Engineering (ICEE2017), 2017.
 
 
-- Mahdi Sedaghat, Mohammad Hassan Ameri, Mahshid Delavar, Javad Mohajeri, and Mohammad Reza Aref, “An efficient and secure ciphertext-policy Attribute-Based Signcryption scheme for Smart Grid applications.”, Transactions on Emerging Topics in Computing, \textcolor{red}{ Under Review}. Available in https://iacr/2018/263.
+- Mahdi Sedaghat, Mohammad Hassan Ameri, Mahshid Delavar, Javad Mohajeri, and Mohammad Reza Aref, “An efficient and secure ciphertext-policy Attribute-Based Signcryption scheme for Smart Grid applications.”, Transactions on Emerging Topics in Computing, `Under Review`. Available in https://iacr/2018/263.
 
 - Mahdi Sedaghat, Pavel Hubacek. "low-degree PRoximity testing for Algebraic Geometry codes- Interactive oracle proof based (PRAGI)", Under submission.
 
