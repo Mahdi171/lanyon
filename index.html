@@ -2,9 +2,12 @@
 layout: default
 title: Home
 ---
-<a class="GS" href="https://scholar.google.com/citations?user=6gVDkOUAAAAJ&hl=en"> <img src="public/GS.png" width="7%" height="7%">
-class="GH" href="https://github.com/Mahdi171"> <img src="public/GH.png" width="25%" height="25%" >
-class="GM" href="mailto:s.m.sedaghat@gmail.com"> <img src="public/GM.png" width="7%" height="7%" ></a>
+p {
+  display: inline;
+}
+<p> <a class="GS" href="https://scholar.google.com/citations?user=6gVDkOUAAAAJ&hl=en"> <img src="public/GS.png" width="7%" height="7%"> </a> </p>
+<p> <a class="GH" href="https://github.com/Mahdi171"> <img src="public/GH.png" width="25%" height="25%" > </a> </p>
+<p> <a class="GM" href="mailto:s.m.sedaghat@gmail.com"> <img src="public/GM.png" width="7%" height="7%" ></a> </p>
 
 <div class="posts">
   {% for post in paginator.posts %}
