@@ -51,7 +51,11 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
-
+.imgclass{
+   background:url("your_image_path.png") no-repeat 0 0;  // set to the background-position Acroding to your background Image
+display:inline-block;
+vertical-align:top;
+    }
 
 /*
  * Wrapper
