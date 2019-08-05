@@ -4,7 +4,7 @@ title: Education
 ---
   >  *Jan 2019 - Present*
   
-  Visiting student of security and informatics- **Charles University in Prague**- Prague, CZ.
+  PhD student of security and informatics- **Charles University in Prague**- Prague, CZ.
 
   >  *September 2015 - September 2017*
   
