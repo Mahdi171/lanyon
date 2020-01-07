@@ -3,12 +3,12 @@ layout: post
 title: Education
 ---
 
-  >  *Jan 2020 - Present*
+  >  *January 2020 - Present*
   
   Doctoral Student at [COSIC](https://www.esat.kuleuven.be/cosic/)- 
   
   **Ku Leuven**- Leuven, Belgium. Supervisor: [Prof. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/).
-  >  *Jan 2019 - Jan 2020*
+  >  *January 2019 - January 2020*
   
   Visiting student on security and informatics- 
   
