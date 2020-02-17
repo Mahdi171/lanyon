@@ -13,4 +13,6 @@ title: Publication
 
 - Mahdi Sedaghat, [Mohammad Hassan Ameri](https://www.cs.purdue.edu/homes/mameriek/), Mahshid Delavar, Javad Mohajeri, and Mohammad Reza Aref, “An efficient and secure ciphertext-policy Attribute-Based Signcryption scheme for Smart Grid applications.”, Transactions on Emerging Topics in Computing, `Under Review`. [Available in](https://pdfs.semanticscholar.org/0832/a1a69eaad771bd3a988524dd9401f96f66b1.pdf).
 
-- Mahdi Sedaghat, R. Rabaninejhad, M. Ahmadian Attari and M. R. Aref. “An ID-Based Shared Data Integrity Auditing Protocol in Cloud Storage”, `Under submission`.
+- R. Rabaninejhad, Mahdi Sedaghat, M. Ahmadian Attari and M. R. Aref. “An ID-Based Shared Data Integrity Auditing Protocol in Cloud Storage”, accepted for 25th International Computer Conference, 2019.
+
+
